@@ -817,6 +817,18 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-tAZG8Lb5O0 {
+  background: #ffffff;
+}
+.cid-tAZG8Lb5O0 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-tAZG8Lb5O0 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-tAZEzAWbT1 {
   background: #ffffff;
 }
