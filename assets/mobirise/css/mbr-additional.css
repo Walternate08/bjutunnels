@@ -948,3 +948,15 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-tIBgvZ5Fcr {
+  background: #ffffff;
+}
+.cid-tIBgvZ5Fcr .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-tIBgvZ5Fcr .video-block {
+    width: 100% !important;
+  }
+}
